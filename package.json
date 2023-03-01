@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@emurgo/cardano-serialization-lib-asmjs": "^11.3.0",
+    "bip39": "^3.1.0",
+    "cardano-wallet-js": "^1.4.0",
+    "loaderjs": "^1.0.0"
+  }
+}
